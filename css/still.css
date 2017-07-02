@@ -1,0 +1,240 @@
+body{
+
+	margin: 0px;
+	
+	background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fullWidth {
+
+	width: 100%;
+}
+
+.mainWidth{
+
+width: 800px;
+margin: 0px auto;
+
+}
+
+.colorGray{
+
+	background: gray;
+}
+
+.colorBlack{
+
+	background: black;
+}
+
+.colorWhite{
+
+	background: white;
+}
+
+/*Bura umumi klasdir*/
+
+.verticalSpace{
+
+	height: 10px;
+}
+
+.verticalSpace{
+
+	height: 10px;
+}
+
+
+.verticalSpace{
+
+	height: 10px;
+}
+
+
+.mainDiv{
+     
+   
+}
+.innerNav{
+
+	height: 30px;
+	
+	color: white;
+}
+
+.innerLeft{
+
+width: : 300px;
+	float: left;
+}
+
+.innerRight{
+
+	width: : 200px;
+	float: right;
+}
+.innerLeft span{
+
+	color: lightgray;
+}
+
+.innerRight span{
+
+color: lightgray;
+border-right: 1px solid white;
+padding: 5px 10px;
+
+}
+
+.Slide{
+	width: 800px;
+	height: 120px;
+	border-top-left-radius:15px; 
+	border-top-right-radius:15px;
+	
+	
+	
+}
+
+ul{
+
+	margin:0;
+	padding-right: 20px
+
+}
+ul li{
+
+	list-style: none;
+	float: right;
+	margin: 10px;
+	width: 50px;
+	height: 30px;
+    border-right: 1px solid white;
+    text-align: center;
+    padding-right: 10px;
+
+ 
+
+	
+}
+
+
+
+
+.button{
+
+   
+	height: 20px;
+	text-align: center;
+	color: white;
+}
+
+.Frame{
+
+	height: 500px;
+	background-image: url(../images/volvo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+
+}
+
+.newSection{
+
+  height:400px;
+  border-radius: 15px; 
+  
+     
+}
+
+h1{
+
+	padding-top: 10px;
+}
+
+img{
+
+	height: 90px;
+	padding-left: 20px;
+}
+
+.Volvo1{
+
+	padding-left: 20px;
+	float: left;
+}
+
+.Volvo2{
+
+	padding-left: 20px;
+	float: left;
+}
+
+.Volvo3{
+
+	padding-left: 20px;
+	float: left;
+
+}
+
+.Volvo4{
+
+	padding-left:20px;
+
+	float: left;
+}
+
+
+
+.footer{
+
+	height:100px;
+    border-radius: 15px; 
+    padding-right: 20px;
+
+ 	
+
+}
+
+.endDiv{
+    
+    font-size: 30px;
+ 	float: left;
+   
+
+ }
+
+ .PLM{
+
+ 	padding-top: 30px;
+ 	font-size: 20px;
+ 	padding: auto;
+
+ }
+
+
+ .QC{
+
+text-align: right;    
+font-size:20px;
+margin: auto;
+
+}
+ .CM{
+
+text-align: left;    
+font-size:20px;
+margin: 30px 0 0 265px;
+
+ }
+
+ table{
+
+ 	float: right;
+ 	padding-right: 200px;
+ 	margin-top: 80px;
+ }
+
+ 
